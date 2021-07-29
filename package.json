@@ -1,6 +1,6 @@
 {
   "name": "panel.manager",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A manager to handle the sizing of multiple panels",
   "keywords": [
     "panel",
